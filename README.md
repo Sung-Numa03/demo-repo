@@ -1,6 +1,6 @@
 # Demo
 
-Some decription.
+Some description!
 
 ## Subheader
 
